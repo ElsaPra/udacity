@@ -1,2 +1,2 @@
-# udacity
+# Udacity
 My Udacity projects
